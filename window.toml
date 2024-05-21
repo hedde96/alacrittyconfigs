@@ -1,0 +1,22 @@
+# here i keep my window settings
+
+[window]
+
+# you can choose to use blur by setting it true.
+# i dont i think it sucks
+blur = false
+
+# sets the mode of the window (Windowed, Miximized, Fullscreen)
+startup_mode = "Windowed"
+
+# window decorations (Full, None)
+decorations = "Full"
+
+# opacity (0.0 completely transparant, 1.0 opaque)
+opacity = 1.0
+
+# title of the window
+title = "hedde de baas"
+
+# position of the window
+position = "None"

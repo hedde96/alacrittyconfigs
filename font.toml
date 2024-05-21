@@ -1,0 +1,6 @@
+# here i keep the font settings
+
+[font]
+
+# im using the nerd-fonts 
+normal = { family = "Hack", style = "Regular"}

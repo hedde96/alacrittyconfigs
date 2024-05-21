@@ -1,0 +1,8 @@
+# here i keep the scrolling settings
+
+[scrolling]
+
+
+history = 10000
+
+multiplier = 3

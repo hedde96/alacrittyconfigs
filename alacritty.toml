@@ -1,0 +1,36 @@
+#
+#  $$$$$$\  $$\                               $$\   $$\     $$\               
+# $$  __$$\ $$ |                              \__|  $$ |    $$ |     
+# $$ /  $$ |$$ | $$$$$$\   $$$$$$$\  $$$$$$\  $$\ $$$$$$\ $$$$$$\   $$\   $$\ 
+# $$$$$$$$ |$$ | \____$$\ $$  _____|$$  __$$\ $$ |\_$$  _|\_$$  _|  $$ |  $$ |
+# $$  __$$ |$$ | $$$$$$$ |$$ /      $$ |  \__|$$ |  $$ |    $$ |    $$ |  $$ |
+# $$ |  $$ |$$ |$$  __$$ |$$ |      $$ |      $$ |  $$ |$$\ $$ |$$\ $$ |  $$ |
+# $$ |  $$ |$$ |\$$$$$$$ |\$$$$$$$\ $$ |      $$ |  \$$$$  |\$$$$  |\$$$$$$$ |      
+# \__|  \__|\__| \_______| \_______|\__|      \__|   \____/  \____/  \____$$ |
+#   config files                                                    $$\   $$ |
+#   by hedde96                                                      \$$$$$$  |
+#                                                                    \______/ 
+
+
+
+# imports
+import = ["~/.config/alacritty/theme/gruvbox_dark.toml",
+          "~/.config/alacritty/font.toml",
+          "~/.config/alacritty/window.toml",
+          "~/.config/alacritty/scrolling.toml"]
+
+
+
+
+# directory alacritty starts in
+working_directory = "None"
+
+# enable or disable live config reload
+live_config_reload = true
+
+# choose your shell
+# im using fish for example
+[shell]
+program = "/bin/fish"
+args = ["-l"]
+
